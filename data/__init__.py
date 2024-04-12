@@ -1,0 +1,1 @@
+from .competitions import *
